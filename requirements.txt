@@ -5,4 +5,4 @@ scikit-learn == 1.2.1
 flask == 2.2.2
 streamlit == 1.24.0
 afinn == 0.1
-
+lightgbm == 3.3.5
