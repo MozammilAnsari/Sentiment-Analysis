@@ -16,6 +16,7 @@ from nltk.stem.porter import PorterStemmer
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
+nltk.download('omw-1.4')
 ps = PorterStemmer()
 # Function to clean and preprocess tweet text
 stop_words = set(stopwords.words('english'))
