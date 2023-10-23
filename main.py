@@ -11,7 +11,7 @@ import string
 import re
 import pickle
 import streamlit as st
-import lightbgm as lgb
+import lightgbm as lgb
 from nltk.stem.porter import PorterStemmer
 
 nltk.download('punkt')
